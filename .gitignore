@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Ignore out folder
+out/
+
+# Ignore macOS system file
+.DS_Store
